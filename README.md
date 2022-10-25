@@ -1,50 +1,46 @@
-# RAM
+# La RAM
 
-![Image de RAM]()
+![Image de barrettes de RAM](/barrettes_de_RAM.webp)
 
-Sommaire
+---
 
-[Debut](#Debut)
-History/Création
-Capacité
-Vitesses
-Cadences
-fréquence Mhz
-Connectique
-marketing
-marques
-Sources
+## Le Sommaire
 
-Ddr4/Ddr5
+<br>[Introduction](#Introduction)
+<br>[Principes de fonctionnement](#principes-de-fonctionnement)
+<br>[Évolution](#Évolution)
+<br>[Bibliographie/Sitographie](#Bibliographie/sitographie)
 
-f f f f f f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f d f d f d f d f d f d f d f d ff f f f f f f f f f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f d f d f d f d f d f d f d f d ff f f f f f f f f f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f d f d f d f d f d f d f d f d ff f f f f f f f f f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f d f d f d f d f d f d f d f d ff f f f f f f f f f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f d f d f d f d f d f d f d f d ff f f f f f f f f f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f d f d f d f d f d f d f d f d ff f f f f f f f f f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f d f d f d f d f d f d f d f d ff f f f f f f f f f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f d f d f d f d f d f d f d f d ff f f f f f f f f f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f d f d f d f d f d f d f d f d ff f f f f f f f f f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f d f d f d f d f d f d f d f d ff f f f f f f f f f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f d f d f d f d f d f d f d f d ff f f f f f f f f f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f d f d f d f d f d f d f d f d ff f f f f f f f f f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f d f d f d f d f d f d f d f d ff f f f f f f f f f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f d f d f d f d f d f d f d f d ff f f f f f f f f f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df  d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df  d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df  d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df  d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df  d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df  d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df  d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df  d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df  d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df  d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df  d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df  d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df  d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df  d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df  d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df df d f d f d f df f f df 
+---
 
+## L'Introduction
+
+(expliquer ce qu'est la RAM, création)
+
+La RAM (en anglais Random Access Memory),a ne pas confondre avec la ROM (Read Only Memory), 
+
+un domaine où le marketing règne en maitre, entre des appellations pas toujours claires selon les marques, des dissipateurs en titane de carton et autres éclairages RGB
+
+---
+
+## Les Principes de fonctionnement
+
+(Capacité, Vitesses, Cadences, fréquenceMhz, Connectique, Ddr4/Ddr5)
 
 
 ---
 
-## Debut
+## Leur Évolution
 
-A ne pas confondre avec la ROM (Read Only Memory)
+(History, marketing, marques)
 
-un domaine où le marketing règne en maitre, entre des appellations pas toujours claires selon les marques, des dissipateurs en titane de carton et autres éclairages RGB
 
-[Sources](Sources)
+---
+
+## La Bibliographie/sitographie
 
 <https://www.frandroid.com/guide-dachat/guides-dachat-hardware/1218287_quelles-sont-les-meilleures-barrettes-de-ram>
 
-
-endez-vous sur [Simplonline](http://www.simplonline.com) !
-
-
-[text](<a id="id"></a>)
-
-
-
-
-
-
-
-<p>text</p>
+<https://www.config-gamer.fr/guide-achat/guide-achat-ram-memoire.html>
 
 ---
