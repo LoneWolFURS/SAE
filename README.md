@@ -4,7 +4,7 @@
 
 ---
 
-## Le Sommaire
+## Sommaire
 
 <br>[Introduction](#Introduction)
 <br>[Principes de fonctionnement](#principes-de-fonctionnement)
@@ -13,7 +13,7 @@
 
 ---
 
-## L'Introduction
+## Introduction
 
 (expliquer ce qu'est la RAM, création)
 
@@ -23,21 +23,21 @@ un domaine où le marketing règne en maitre, entre des appellations pas toujour
 
 ---
 
-## Les Principes de fonctionnement
+## Principes de fonctionnement
 
 (Capacité, Vitesses, Cadences, fréquenceMhz, Connectique, Ddr4/Ddr5)
 
 
 ---
 
-## Leur Évolution
+## Évolution
 
 (History, marketing, marques)
 
 
 ---
 
-## La Bibliographie/sitographie
+## Bibliographie/sitographie
 
 <https://www.frandroid.com/guide-dachat/guides-dachat-hardware/1218287_quelles-sont-les-meilleures-barrettes-de-ram>
 
